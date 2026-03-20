@@ -1,2 +1,3 @@
-# rapid-blockchain-dapp-e39h
-Automated issue comment bot repository
+# Rapid Blockchain Dapp E39H
+
+Automated issue comment bot repository.
